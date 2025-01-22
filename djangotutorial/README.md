@@ -23,6 +23,9 @@ python3 -m venv venv-django
 
 # Ativando o ambiente virtual
 source venv-django/bin/activate
+
+# Atualizar o pip
+pip install --upgrade pip
 ```
 
 ---
